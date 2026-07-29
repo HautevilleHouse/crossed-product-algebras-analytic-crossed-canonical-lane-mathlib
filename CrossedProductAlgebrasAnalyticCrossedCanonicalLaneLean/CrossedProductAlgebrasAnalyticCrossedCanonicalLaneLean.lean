@@ -1,0 +1,9 @@
+import canonicalLaneMathlib.AdmissibleClass
+
+namespace HautevilleHouse
+namespace CrossedProductAlgebrasAnalyticCrossedCanonicalLaneLean
+
+-- Root module for the package.
+
+end CrossedProductAlgebrasAnalyticCrossedCanonicalLaneLean
+end HautevilleHouse
